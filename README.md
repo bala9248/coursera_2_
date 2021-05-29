@@ -1,1 +1,3 @@
-# coursera_2_
+# coursera_week2_assignment
+Author : Balapranesh
+
